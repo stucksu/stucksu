@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stucksu.github.io/sitemap.xml
